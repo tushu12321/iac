@@ -24,8 +24,8 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/yourusername/gpfs-infrastructure.git
-    cd gpfs-infrastructure
+    git clone https://github.com/tushu12321/iac.git
+    cd iac
     ```
 
 2. Install the required Ansible roles:
